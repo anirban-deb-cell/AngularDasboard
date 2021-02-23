@@ -10,7 +10,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-#Deploy in github <br/>
+## Deploy in github
+
 npm install -g angular-cli-ghpages <br/>
 ng build --prod --base-href "https://anirban-deb-cell.github.io/AngularDasboard" <br/>
 ngh <br/>
