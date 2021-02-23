@@ -1,0 +1,7 @@
+ng add @angular/material
+npm i highcharts-angular --save
+npm i highcharts --save
+npm i @angular/flex-layout @angular/cdk --save
+npm install highcharts-custom-events --save // for exporting charts
+https://github.com/highcharts/highcharts-angular
+https://www.highcharts.com/demo/area-stacked
